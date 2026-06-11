@@ -125,7 +125,7 @@ nav a:hover { color: var(--blue); }
   inset: 0;
   background:
     linear-gradient(90deg, rgba(255,255,255,0.97) 45%, rgba(255,255,255,0.3) 100%),
-    url('https://picsum.photos/seed/jdmhero/1800/1000') center/cover no-repeat;
+    url('https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1800&q=85') center/cover no-repeat;
 }
 
 .hero-content {
@@ -746,7 +746,7 @@ footer {
   .menu-toggle { display: flex; }
 
   .hero-content { padding: 60px 20px; }
-  .hero-bg { background: linear-gradient(180deg, rgba(255,255,255,0.98) 60%, rgba(255,255,255,0.8) 100%), url('https://picsum.photos/seed/jdmhero/800/600') center/cover no-repeat; }
+  .hero-bg { background: linear-gradient(180deg, rgba(255,255,255,0.98) 60%, rgba(255,255,255,0.8) 100%), url('https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=900&q=80') center/cover no-repeat; }
   .hero-stats { display: grid; grid-template-columns: 1fr 1fr; }
   .stat-item { border-right: none; border-bottom: 1px solid var(--border); }
   .stat-item:nth-child(odd) { border-right: 1px solid var(--border); }
